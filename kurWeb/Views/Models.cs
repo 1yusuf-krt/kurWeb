@@ -1,6 +1,6 @@
 ﻿namespace kurWeb.Views
 {
-    public class DataKur
+    public class ResponseDataKur
     {
         public string Kodu { get; set; }
         public string Adi { get; set; }
