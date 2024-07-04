@@ -1,0 +1,6 @@
+@kurWeb_HostAddress = http://localhost:5128
+
+GET {{kurWeb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
