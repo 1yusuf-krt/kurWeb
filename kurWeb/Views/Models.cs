@@ -8,6 +8,3 @@
         public string ForexSelling { get; set; }
     }
 }
-public class ResponseData
-{
-}
