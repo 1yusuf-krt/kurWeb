@@ -2,9 +2,12 @@
 {
     public class ResponseDataKur
     {
-        public string Kodu { get; set; }
-        public string Adi { get; set; }
-        public decimal AlisKuru { get; set; }
-        public string SatisKuru { get; set; }
+        public string Code { get; set; }
+        public string Name { get; set; }
+        public decimal ForexBuying { get; set; }
+        public string ForexSelling { get; set; }
     }
+}
+public class ResponseData
+{
 }
